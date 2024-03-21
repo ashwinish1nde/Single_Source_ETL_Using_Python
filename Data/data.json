@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Jane",
+        "age": 34,
+        "programming_language": "Python",
+        "comment": "Passionate about data science",
+        "discord_id": "jane123"
+    },
+    {
+        "name": "John",
+        "age": 29,
+        "programming_language": "Java",
+        "comment": "Enjoys building scalable systems",
+        "discord_id": "john456"
+    },
+    {
+        "name": "Emily",
+        "age": 31,
+        "programming_language": "C++",
+        "comment": "Experienced in software development",
+        "discord_id": "emily789"
+    },
+    {
+        "name": "Adam",
+        "age": 27,
+        "programming_language": "JavaScript",
+        "comment": "Frontend developer with a creative mindset",
+        "discord_id": "adam007"
+    },
+    {
+        "name": "Sarah",
+        "age": 33,
+        "programming_language": "Ruby",
+        "comment": "Passionate about web development",
+        "discord_id": "sarah321"
+    },
+    {
+        "name": "Michael",
+        "age": 26,
+        "programming_language": "Python",
+        "comment": "Enjoys data analysis and visualization",
+        "discord_id": "michael456"
+    },
+    {
+        "name": "Emma",
+        "age": 30,
+        "programming_language": "Java",
+        "comment": "Interested in machine learning",
+        "discord_id": "emma123"
+    },
+    {
+        "name": "Jack",
+        "age": 32,
+        "programming_language": "Python",
+        "comment": "Experienced in backend development",
+        "discord_id": "jack789"
+    },
+    {
+        "name": "Sophia",
+        "age": 28,
+        "programming_language": "JavaScript",
+        "comment": "Passionate about frontend development",
+        "discord_id": "sophia456"
+    },
+    {
+        "name": "William",
+        "age": 35,
+        "programming_language": "Java",
+        "comment": "Enjoys building scalable systems",
+        "discord_id": "william007"
+    },
+    {
+        "name": "Olivia",
+        "age": 29,
+        "programming_language": "Python",
+        "comment": "Excited about artificial intelligence",
+        "discord_id": "olivia321"
+    },
+    {
+        "name": "Daniel",
+        "age": 31,
+        "programming_language": "C#",
+        "comment": "Experienced in database management",
+        "discord_id": "daniel456"
+    },
+    {
+        "name": "Ava",
+        "age": 28,
+        "programming_language": "JavaScript",
+        "comment": "Frontend developer with a creative mindset",
+        "discord_id": "ava123"
+    },
+    {
+        "name": "James",
+        "age": 32,
+        "programming_language": "Python",
+        "comment": "Interested in web scraping and automation",
+        "discord_id": "james789"
+    },
+    {
+        "name": "Isabella",
+        "age": 30,
+        "programming_language": "Java",
+        "comment": "Enjoys building web applications",
+        "discord_id": "isabella007"
+    }
+]
